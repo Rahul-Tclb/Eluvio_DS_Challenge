@@ -14,6 +14,6 @@ Sentiment Analysis over News Articles
 * initilize the weights as 0 as per the shape of input
 * Train the model using gradient descent Algorthim 
 * create a function to predict the titles and test the data using test_logistic_regression()
-* Drabacks : Not able to optimise the cost function efficiently
+* Drawbacks : Not able to optimise the cost function efficiently
 
 
