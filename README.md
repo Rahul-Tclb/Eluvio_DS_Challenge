@@ -16,3 +16,6 @@ Sentiment Analysis over News Articles
 * create a function to predict the titles and test the data using test_logistic_regression()
 
 
+** cons** 
+
+
